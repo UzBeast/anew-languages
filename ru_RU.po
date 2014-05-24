@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:36+0100\n"
+"PO-Revision-Date: 2013-12-27 14:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid ""
+"Страница, которую вы пытаетесь найти не существует или была перемещена. Пожалуйста "
+"воспользуйтесь меню или окном поиска, чтобы найти то, что вы ищете."
+msgstr ""
+
+#: ../comments.php:7
+msgid "Нет ответов"
+msgstr ""
+
+#: ../comments.php:7
+msgid "1 ответ"
+msgstr ""
+
+#: ../comments.php:7
+msgid "% ответов"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Комментарии"
+msgstr ""
+
+#: ../comments.php:11
+msgid "Вернуться назад"
+msgstr ""
+
+#: ../content.php:37
+msgid "Далее"
+msgstr ""
+
+#: ../footer.php:60
+msgid "Все права защищены."
+msgstr ""
+
+#: ../footer.php:66
+msgid "Разработано "
+msgstr ""
+
+#: ../footer.php:66
+msgid "Тема от "
+msgstr ""
+
+#: ../search.php:11
+msgid "Извините, нет записей, удовлетворяющих вашим условиям. Попробуйте еще раз с некоторыми другими условиями."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Задайте тип поиска и нажмите ввод"
+msgstr ""
+
+#: ../sidebar.php:9
+msgid "Развернуть боковую панель"
+msgstr ""
+
+#: ../single.php:37
+msgid "Страница:"
+msgstr ""
+
+#: ../single.php:40
+msgid "Метка:"
+msgstr ""
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Последние сообщения"
+msgstr ""
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Популярные сообщения"
+msgstr ""
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Последние комментарии"
+msgstr ""
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Метки"
+msgstr ""
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "Говорит:"
+msgstr ""
+
+#: ../inc/page-title.php:9
+msgid "Результат"
+msgstr ""
+
+#: ../inc/page-title.php:9
+msgid "для"
+msgstr ""
+
+#: ../inc/page-title.php:14
+msgid "Ошибка 404."
+msgstr ""
+
+#: ../inc/page-title.php:14
+msgid "Страница не найдена!"
+msgstr ""
+
+#: ../inc/page-title.php:19
+msgid "Автор:"
+msgstr ""
+
+#: ../inc/page-title.php:22
+msgid "Категория:"
+msgstr ""
+
+#: ../inc/page-title.php:30
+msgid "Помечены:"
+msgstr ""
+
+#: ../inc/page-title.php:33
+msgid "Архив за день:"
+msgstr ""
+
+#: ../inc/page-title.php:36
+msgid "Архив за месяц:"
+msgstr ""
+
+#: ../inc/page-title.php:39
+msgid "Архив за год:"
+msgstr ""
+
+#: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+msgid "Тип:"
+msgstr ""
+
+#: ../inc/page-title.php:42
+msgid "Аудио"
+msgstr ""
+
+#: ../inc/page-title.php:44
+msgid "Заметка"
+msgstr ""
+
+#: ../inc/page-title.php:46
+msgid "Чат"
+msgstr ""
+
+#: ../inc/page-title.php:48
+msgid "Галерея"
+msgstr ""
+
+#: ../inc/page-title.php:50
+msgid "Изображение"
+msgstr ""
+
+#: ../inc/page-title.php:52
+msgid "Сссылка"
+msgstr ""
+
+#: ../inc/page-title.php:54
+msgid "Цитата"
+msgstr ""
+
+#: ../inc/page-title.php:56
+msgid "Статус"
+msgstr ""
+
+#: ../inc/page-title.php:58
+msgid "Видео"
+msgstr ""
+
+#: ../inc/post-nav.php:3
+msgid "Следующая"
+msgstr ""
+
+#: ../inc/post-nav.php:4
+msgid "Предыдущая"
+msgstr ""
